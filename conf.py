@@ -14,14 +14,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Sky's Blog"
+site_name = "就是无聊"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Sky"
 email = "hi@zdl.im"
 author_homepage = "https://zdl.im"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "记录网络生活。"
+key_words = ['Python', '就是无聊', '生活', '记录']
 language = 'zh-CN'
 external_links = [
     {
@@ -30,9 +30,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "杂货铺",
+        "url": "https://jsq.im",
+        "brief": "杂货铺。"
     }
 ]
 nav = [
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/aosky",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/aosky",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/aosky/",
         "icon": "gi gi-weibo"
     }
 ]
